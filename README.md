@@ -31,7 +31,11 @@ This project demonstrates an AI-based autonomous navigation system using Python.
 5. Output Visualization
 
 ---
-
+![Demo](images/demo_run.gif)
+## Output
+![Simulation](images/simulation.png)
+## 👨‍💻 Author
+Tufan Chowdhury
 ## ▶️ How to Run
 
 ```bash
@@ -39,8 +43,3 @@ git clone https://github.com/tufan2416/ai-autonomous-navigation-system.git
 cd ai-autonomous-navigation-system
 pip install -r requirements.txt
 python main.py
-![Demo](images/demo_run.gif)
-## Output
-![Simulation](images/simulation.png)
-## 👨‍💻 Author
-Tufan Chowdhury
