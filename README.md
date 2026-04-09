@@ -39,3 +39,5 @@ git clone https://github.com/tufan2416/ai-autonomous-navigation-system.git
 cd ai-autonomous-navigation-system
 pip install -r requirements.txt
 python main.py
+## 👨‍💻 Author
+Tufan Chowdhury
