@@ -31,8 +31,12 @@ This project demonstrates an AI-based autonomous navigation system using Python.
 5. Output Visualization
 
 ---
+## 📸 Demo
+
 ![Demo](images/screenshots/demo_run.gif)
-## Output
+
+## 📊 Output
+
 ![Simulation](images/screenshots/architecture.png)
 ## 👨‍💻 Author
 Tufan Chowdhury
