@@ -33,7 +33,7 @@ This project demonstrates an AI-based autonomous navigation system using Python.
 ---
 ![Demo](images/demo_run.gif)
 ## Output
-![Simulation](images/simulation.png)
+![Simulation](images/architecture.png)
 ## 👨‍💻 Author
 Tufan Chowdhury
 ## ▶️ How to Run
