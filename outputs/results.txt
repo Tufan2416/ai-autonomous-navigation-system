@@ -1,2 +1,7 @@
 Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.01s
 Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.02s
+Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.22s
+Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.18s
+Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.22s
+Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.16s
+Grid: 20x20 | Path Length: 39 | Steps: 38 | Time: 6.12s
